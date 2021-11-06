@@ -1,0 +1,75 @@
+#container {
+  background-color: rgba(0, 0, 0, 0.637);
+  height: 150px;
+  position: absolute;
+  border-radius: 50px;
+  width: 50%;
+  top: 50%;
+  left: 50%;
+  margin-left: 10px;
+  margin-left: -600px;
+  margin-top: -400px;
+}
+
+body {
+  color: #FFF;
+  padding: 140px 0px 0px 0px;
+}
+
+h2 {
+  margin-right: 900px;
+  font-size: 50px;
+  font-family: 'Amethysta', serif;
+  text-align: center;
+  line-height: 0.1em;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  white-space:nowrap;
+}
+
+h1 {
+  background-color: rgba(256,256,256,.03);
+  font-size: 2em;
+  font-family: 'Amethysta', serif;
+  text-align: center;
+  line-height: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  white-space:nowrap;
+}
+
+span {
+  color: #000;
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 5em;
+  text-transform: lowercase;
+  vertical-align: middle;
+  letter-spacing: .2em;
+}
+
+.raid22 {
+  font-size: 2.7em;
+  font-weight: 20px;
+  font-variant: small-caps;
+  font-language-override: normal;
+  animation: anmation 1s ease-in-out infinite alternate;
+  -moz-animation: animation 1s ease-in-out infinite alternate;
+  -webkit-animation: animation 1s ease-in-out infinite alternate;
+  -o-animation: animation 1s ease-in-out infinite alternate;
+}
+
+.raid1 {
+  font-size: 2em;
+  animation: animation 1s ease-in-out infinite alternate;
+  -moz-animation: animation 1s ease-in-out infinite alternate;
+  -webkit-animation: animation 1s ease-in-out infinite alternate;
+  -o-animation: animation 1s ease-in-out infinite alternate;
+}
+
+.raid2 {
+  font-size: 2em;
+  animation: animation .65s ease-in-out infinite alternate;
+  -moz-animation: animation .65s ease-in-out infinite alternate;
+  -webkit-animation: animation .65s ease-in-out infinite alternate;
+  -o-animation: animation .65s ease-in-out infinite alternate;
+}
